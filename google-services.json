@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "645999439241",
+    "firebase_url": "https://fju-project-8af47.firebaseio.com",
+    "project_id": "fju-project-8af47",
+    "storage_bucket": "fju-project-8af47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645999439241:android:e0ba79b731bc06b3",
+        "android_client_info": {
+          "package_name": "com.example.johnpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645999439241-3rqihdb6i5r1bqpbr6p7vvh9gudgm5u5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.johnpractice",
+            "certificate_hash": "9ea11d4b719680073d66d2349c53544f8f645925"
+          }
+        },
+        {
+          "client_id": "645999439241-91vf46121mtj45ubigia2pgdqovcbqbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswhqEOiwEj0nj_DAsmqMuY4oG7nsn-qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645999439241-91vf46121mtj45ubigia2pgdqovcbqbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
