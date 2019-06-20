@@ -70,7 +70,7 @@ public class LoginActivity extends AppCompatActivity {
 
                                 // ...
                             }
-                        });
+                        }); 
                 //  成功 -> 跳轉頁面
             }
         });
